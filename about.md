@@ -7,4 +7,4 @@ permalink: /about/
 Hi, my name is Joe Turner.
 
 
-![Photo](/images/about_pic.png)
+![Photo](/images/about_pic_small.png)
