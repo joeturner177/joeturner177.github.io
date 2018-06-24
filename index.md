@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![][/images/banner.JPEG]
+![Banner][/images/banner.JPEG]
