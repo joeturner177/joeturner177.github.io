@@ -22,6 +22,8 @@ url: "https://www.joeturner.eu" # the base hostname & protocol for your site, e.
 twitter_username: joe_turner177
 github_username:  joeturner177
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: minima
