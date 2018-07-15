@@ -17,7 +17,7 @@ title: JoeTurner.eu
 author: Joe Turner
 email: mail@joeturner.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Joe's GitHub Pages Website
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.joeturner.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joe_turner177
