@@ -25,6 +25,10 @@ github_username:  joeturner177
 
 show_excerpts: true
 
+header_pages:
+  - publications.md
+  - about.md
+  
 # Build settings
 markdown: kramdown
 theme: minima
