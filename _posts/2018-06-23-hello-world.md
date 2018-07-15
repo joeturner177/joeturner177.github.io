@@ -9,4 +9,4 @@ permalink: /posts/hello-world.html
 Welcome to my website, hosted on GitHub Pages.
 
 This blog is something of a work in progress while I learn how to use Jekyll, 
-but I hope to had more to it soon!
+but I hope to add more to it soon!
