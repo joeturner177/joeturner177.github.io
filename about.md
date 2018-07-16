@@ -50,8 +50,7 @@ _piggyBac_ and CRISPR/Cas9.
 
 ### Other interests
 
-I am passionate about film, especially "World Cinema" (though I dislike
-the term).
+I am passionate about film, especially "World Cinema".
 
 As a scientist, I am committed to pursuing responsible science and using
 science and technology to contribute towards creating a sustainable,
