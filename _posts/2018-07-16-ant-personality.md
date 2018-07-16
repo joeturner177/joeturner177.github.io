@@ -6,9 +6,10 @@ categories: jekyll update
 permalink: /posts/ant-personality.html
 ---
 
+The paper based on my masters research, supervised by Bill Hughes at the University of Sussex, is now published in _Behavioural Processes_. 
+
 ![Source:Wikimedia Commons](/images/A_Formica_rufa_sideview.jpg)
 
-The paper based on my masters research, supervised by Bill Hughes at the University of Sussex, is now published in _Behavioural Processes_. 
 
 [The effect of parasitism on personality in a social insect](https://www.sciencedirect.com/science/article/pii/S0376635717303200)
 
@@ -20,7 +21,8 @@ personalities of individual ants.
 
 More details can be found in the abstract below.
 
-> ##Abstract
+> ## Abstract
+> 
 > Individuals are known to differ consistently in various aspects of their
 > behaviour in many animal species, a phenomenon that has come to be
 > referred to as animal personalities. These individual differences are
