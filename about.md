@@ -51,13 +51,13 @@ _piggyBac_ and CRISPR/Cas9.
 ### Other interests
 
 I am passionate about film, especially "World Cinema" (though I dislike
-that term).
+the term).
 
 As a scientist, I am committed to pursuing responsible science and using
 science and technology to contribute towards creating a sustainable,
-peaceful, and just society. I am interested in promoting nuclear
-disarmament and encouraging the scientific community to end support for
-arms manufacturers and polluting industries. As a non-specialist, I also
-have a strong interest in a number of social and political issues
-including migrant and refugee solidarity, antiracist and antifascist
-activities, and homelessness support.
+peaceful, and just society. I am interested in promoting gender
+equality, nuclear disarmament, and encouraging the scientific community
+to end support for arms manufacturers and polluting industries. As a
+non-specialist, I also have a strong interest in a number of social and
+political issues including migrant and refugee solidarity, antiracist
+and antifascist activities, and homelessness support.
