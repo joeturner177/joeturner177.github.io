@@ -15,10 +15,12 @@ subjects, I presented my PhD research on the _Aedes aegypti_
 sex-determining locus in the evolutionary genomics poster session.
 
 A number of people asked for a photo/digital copy of my poster so I
-thought I would make it available here on the website. A preprint of the
-article on which it is based is also available on _bioRxiv_
+thought I would [make it available
+here](https://joeturner.eu/_presentations/JoeT_nix-poster_A0.pdf) on the
+website. A preprint of the article on which it is based is also
+available on _bioRxiv_
 [here](https://www.biorxiv.org/content/early/2017/06/28/122804).
 
 
 
-![](/_presentations/JoeT_nix-poster_A0.jpg)
+![poster](/_presentations/JoeT_nix-poster_A0.jpg)
