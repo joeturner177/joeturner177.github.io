@@ -16,11 +16,11 @@ sex-determining locus in the evolutionary genomics poster session.
 
 A number of people asked for a photo/digital copy of my poster so I
 thought I would [make it available
-here](https://joeturner.eu/_presentations/JoeT_nix-poster_A0.pdf) on the
+here](https://joeturner.eu/presentations/JoeT_nix-poster_A0.pdf) on the
 website. A preprint of the article on which it is based is also
 available on _bioRxiv_
 [here](https://www.biorxiv.org/content/early/2017/06/28/122804).
 
 
 
-![poster](/_presentations/JoeT_nix-poster_A0.jpg)
+![poster](/presentations/JoeT_nix-poster_A0.jpg)
