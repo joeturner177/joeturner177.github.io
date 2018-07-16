@@ -21,7 +21,7 @@ personalities of individual ants.
 
 More details can be found in the abstract below.
 
-> ## Abstract
+> ### Abstract
 > 
 > Individuals are known to differ consistently in various aspects of their
 > behaviour in many animal species, a phenomenon that has come to be
