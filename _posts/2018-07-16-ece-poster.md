@@ -21,4 +21,4 @@ article on which it is based is also available on _bioRxiv_
 
 
 
-![](/_presentations/JoeT_nix-poster_A0.png)
+![](/_presentations/JoeT_nix-poster_A0.jpg)
