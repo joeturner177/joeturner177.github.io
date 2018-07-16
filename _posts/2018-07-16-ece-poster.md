@@ -19,4 +19,6 @@ thought I would make it available here on the website. A preprint of the
 article on which it is based is also available on _bioRxiv_
 [here](https://www.biorxiv.org/content/early/2017/06/28/122804).
 
-![](/_presentations/JoeT_nix-poster_A0.pdf)
+
+
+![](/_presentations/JoeT_nix-poster_A0.png)
