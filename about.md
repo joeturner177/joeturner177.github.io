@@ -61,3 +61,5 @@ non-specialist, I also have a strong interest in a number of social and
 political issues including migrant and refugee solidarity, antiracist
 and antifascist activities, and homelessness support.
 
+
+<a rel="me" href="https://scholar.social/@joeturner">Mastodon</a>
