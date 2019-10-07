@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a Postdoctoral Research Associate in the [Betancourt
-Lab](https://www.flyevolution.net/) in the Department of Evolution, Ecology
-and Behaviour, Institute of Integrative Biology at the University of
-Liverpool.
+I am a Postdoctoral Research Associate in the [Betancourt Lab](https://www.flyevolution.net/) in the Department of Evolution, Ecology and Behaviour, 
+Institute of Integrative Biology at the University of Liverpool.
 
 
 ![Photo](/images/about_pic.jpg)
@@ -16,7 +14,7 @@ Liverpool.
 ### Research Interests
 
 My research examines the evolutionary dynamics of transposable elements in
-the model fly _Drosophila__. I am interested in using genomics to
+the model fly _Drosophila_. I am interested in using genomics to
 understand how these mobile genetic elements launch successful invasions
 into host populations, and how their hosts evolve in response.
 
